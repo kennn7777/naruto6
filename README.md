@@ -1,3 +1,3 @@
 # naruto6
 
-fixed read me
+fixed read me one more time
